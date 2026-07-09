@@ -2,13 +2,13 @@
 
 Floating chat widget + a responder registry. The base ships a DB keyword responder; a chat-ai driver swaps in real model answers via the same contract.
 
-- **Source:** https://github.com/fadymondy/chat
+- **Source:** https://github.com/togo-framework/chat
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/chat
+togo install togo-framework/chat
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level

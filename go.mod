@@ -1,4 +1,4 @@
-module github.com/fadymondy/chat
+module github.com/togo-framework/chat
 
 go 1.26.4
 
